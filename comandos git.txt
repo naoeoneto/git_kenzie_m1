@@ -1,0 +1,9 @@
+git init - iniciar os comandos git
+git status -  verificar status git
+git add . - adiciona todos os arquivos
+git commit -m”” - para subir versão
+git config –global user.name “” - Colocar usuário
+git config –global user.email “” - Colocar email
+git log - ver todos os commits
+git pull - puxar alterações de outra pessoa
+git clone - para clonar repositório remoto no computador
